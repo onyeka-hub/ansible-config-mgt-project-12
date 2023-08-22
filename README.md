@@ -12,3 +12,5 @@ triger now
 try again
 
 trigger now
+
+changed back to ubuntu
